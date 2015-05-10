@@ -4,6 +4,18 @@ BATLOCK-Experiments
 All kinds of Perl experiments.
 
 
+USAGE
+-----
+
+List all tests:
+
+    $ make list
+
+Run all tests:
+
+    $ make tests
+
+
 CONTRIBUTORS
 ------------
 
